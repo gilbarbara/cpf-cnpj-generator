@@ -6,4 +6,4 @@ Generate fake numbers for testing with Alfred 2.
 
 ## Getting Started
 
-You can download this with [packal](http://www.packal.org/system/files/workflow-files/com.gilbarbara.cpf-cnpj-generator/workflow/cpf-cnpj-generator.alfredworkflow) for easy updates.
+You can download this with [packal](https://github.com/packal/repository/raw/master/com.gilbarbara.cpf-generator/cpf_cnpj_generator.alfredworkflow) for easy updates.
