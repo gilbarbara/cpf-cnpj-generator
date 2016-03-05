@@ -1,0 +1,24 @@
+{
+  "name": "cpf-cnpj-generator",
+  "description": "Generate fake brazilian CPF and CNPJ",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gilbarbara/cpf-cnpj-generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilbarbara/cpf-cnpj-generator.git"
+  },
+  "author": {
+    "name": "Gil Barbara",
+    "email": "gilbarbara@gmail.com",
+    "url": "https://github.com/gilbarbara"
+  },
+  "devDependencies": {
+    "del": "^2.2",
+    "gulp": "^3.9",
+    "gulp-load-plugins": "^0.8",
+    "gulp-symlink": "^2.1",
+    "gulp-util": "^3.0",
+    "gulp-zip": "^3.2"
+  },
+  "license": "MIT"
+}
